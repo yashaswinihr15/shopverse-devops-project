@@ -293,3 +293,6 @@ jobs:
           kubectl get ingress -n shopverse 2>/dev/null || echo "No ingress configured"
  
 
+
+
+
